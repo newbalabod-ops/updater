@@ -1,4 +1,5 @@
-version 2.3 BETA TEST
+version 2.3 RELEASE
 https://file.garden/aXR7R4gqMzytqVOz/Chromium%20(2).rar
+
 
 

@@ -1,5 +1,6 @@
-version 2.3 RELEASE
-https://file.garden/aXR7R4gqMzytqVOz/Chromium%20(2).rar
+version 2.31 BETA
+https://file.garden/aXR7R4gqMzytqVOz/Chromium%20New%20Update.rar
+
 
 
 
